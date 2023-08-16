@@ -27,7 +27,7 @@ Let's check with
     
  We should see 4 branches 
  
-```` 
+``` 
   1_typical
   2_cmake_build
   3_cmake_google_tests
